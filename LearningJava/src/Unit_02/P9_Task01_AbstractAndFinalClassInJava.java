@@ -35,8 +35,8 @@ public class P9_Task01_AbstractAndFinalClassInJava {
 	class Honda extends Bike {
 		
 	}
-	public class P9_Task01_AbstractAndFinalClassInJava {
-		public static void main() {
+public class P9_Task01_AbstractAndFinalClassInJava {
+	public static void main() {
 			Bike obj = new Honda();
 //			obj.run();
 			obj.display();
